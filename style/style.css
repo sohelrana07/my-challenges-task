@@ -367,7 +367,7 @@ body {
     font-weight: bold;
     cursor: pointer;
     position: absolute;
-    top: 467px;
+    top: 466px;
     left: 774px;
     border-top-right-radius: 999px;
     border-bottom-right-radius: 999px;
@@ -389,7 +389,6 @@ body {
     display: flex;
     gap: 720px;
     margin: 120px auto 120px auto;
-    padding-left: 30px;
 }
 
 .footer-contact-address i{
@@ -413,8 +412,6 @@ body {
     display: flex;
     justify-content: space-between;
     margin: 160px auto 100px auto;
-    padding-left: 30px;
-    padding-right: 30px;
 }
 
 .other-section h4:hover {
